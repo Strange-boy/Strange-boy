@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Strange-boy
-- 👀 I’m interested in Web development , Competetive Coding and 
+- 👀 I’m interested in Web development , Competetive Coding
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on interesting web development projects with awesome people around the world.
 - 📫 Reach out to me by shooting an email at Gmail:joel.panvel@gmail.com.Would love to work on some really great projects.
