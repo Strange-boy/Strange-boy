@@ -1,61 +1,82 @@
+<h1 align="left">Hey 👋 I'm Joel</h1>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=F72C61&center=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BE;I'm++Joel+Jacob+%F0%9F%91%B7%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" /></a>
-</h1>
+###
 
-<h3 align="center">A Passionate Software Developer from India 🇮🇳</h3>
+<p align="left">your friendly neighborhood developer, born and raised under the Indian sun, now coding my way to the future.🚀</p>
 
-<br/>
+###
 
-<div align="center">
- 
- 🔭 I’m currently working on **a  Food Delivery application [here](https://github.com/Strange-boy/Jo-s-kitchen)** 
- 
- 🌱 I’m currently learning **React JS, Next Js**
+<h2 align="left">About me</h2>
 
-💬 Ask me about **JS, React, Firebase... or anything [here](https://github.com/Strange-boy/Strange-boy/issues)**
+###
 
-💡 Would love to collaborate with others on interesting projects
+<p align="left">✨ I love building apps from scratch, amazed by the journey from nothing to something gigantic<br>📚 I'm currently learning <i>TypeScript and React JS </i><br>💻 I do competetive coding as hobby<br> <b> 🎯 Goals:</b> To make myself 1% better each day<br> <b>🎲 Fun fact:</b> My Favourite hobby other than coding is 🛌</p>
 
+###
 
- </div>
+<h2 align="left">I code with</h2>
 
- <div align="center"> 
-  <a href="mailto:joel.panvel@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/joel-jacob-89b347197/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-     <a href="https://codeforces.com/profile/simply_jo" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" target="_blank" />
-  </a>
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redux" height="60" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jest" height="60" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+</div>
+
+###
+
+<h2 align="left">Recently Made Projects</h2>
+
+###
+
+<p align="left">-  <a href="https://github.com/Strange-boy/easy-eat"><b>Easy eat :</b></a> Easy eat is a user-friendly food ordering app I built showcasing skills in building efficient search, intuitive ordering, and managing complex state with Redux and <b>Redux Toolkit.</b> Key learnings include <i>custom hooks, Higher-Order Components, and implementing UI components from libraries like shadcn-ui </i>. All thoroughly tested with React Testing Library and Jest</p>
+
+###
+
+<h3 align="left">Connect with me via</h3>
+
+###
+
+<div align="left">
+    <a black="_target" href="https://www.linkedin.com/in/joel-jacob-89b347197/">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="74" height="60" alt="linkedin logo"  />
+    </a>
+    <a href="mailto:joel.panvel@gmail.com">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="74" height="60" alt="gmail logo"  />
+    </a>
   
-  </a>
-     <a href="https://leetcode.com/curiousKidd/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank" />
-  </a>
-     
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+###
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cpp" /><br>
-    <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=firebase,vscode,github,tailwind,git" />
-    <br>
-</div>
-<br/>
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Strange-boy&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=strange-boy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=strange-boy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-<br/><br/>
- 
+###
