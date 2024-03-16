@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I love building apps from scratch, amazed by the journey from nothing to something gigantic<br>📚 I'm currently learning <i>TypeScript and React JS </i><br>💻 I do competetive coding as hobby<br> <b> 🎯 Goals:</b> To make myself 1% better each day<br> <b>🎲 Fun fact:</b> My Favourite hobby other than coding is 🛌</p>
+<p align="left">✨ I love building apps from scratch, amazed by the journey from nothing to something gigantic<br>📚 I'm currently learning <i>TypeScript and React JS </i><br>💻 I do competetive coding as hobby<br> <b> 🎯 Goals:</b> To make myself 1% better each day<br> <b>🎲 Fun fact:</b> I love listening to music while I am 👨‍💻 </p>
 
 ###
 
